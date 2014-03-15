@@ -1,8 +1,0 @@
-{"ts":1360045358233,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
-{"contributors":[],"silentsave":false,"ts":1360045422453,"patch":[[{"diffs":[[1,"var http = require(\"http\");\nhttp.createServer(function(req, res) {\n    res.writeHead(200, {'Content-Type' : 'text/plain'});\n    res.end('Hello World\\n');\n});"]],"start1":0,"start2":0,"length1":0,"length2":157}]],"length":157,"saved":false}
-{"ts":1360045452719,"patch":[[{"diffs":[[0,"\\n');\n})"],[1,".listen(1337, '127.0.0.1')"],[0,";"]],"start1":148,"start2":148,"length1":9,"length2":35}]],"length":183,"saved":false}
-{"ts":1360045470848,"patch":[[{"diffs":[[0,"0.0.1');"],[1,"\nconsole.log('Server running at xx..');"]],"start1":175,"start2":175,"length1":8,"length2":47}]],"length":222,"saved":false}
-{"ts":1360045472496,"patch":[[{"diffs":[[0," at xx.."],[1,"."],[0,"');"]],"start1":211,"start2":211,"length1":11,"length2":12}]],"length":223,"saved":false}
-{"ts":1360045538275,"patch":[[{"diffs":[[0,"ten("],[-1,"1337"],[1,"'process.env.PORT'"],[0,", '1"]],"start1":160,"start2":160,"length1":12,"length2":26}]],"length":237,"saved":false}
-{"ts":1360045542050,"patch":[[{"diffs":[[0,".listen("],[-1,"'"],[0,"process."]],"start1":156,"start2":156,"length1":17,"length2":16},{"diffs":[[0,"env.PORT"],[-1,"'"],[0,", '127.0"]],"start1":172,"start2":172,"length1":17,"length2":16}]],"length":235,"saved":false}
-{"ts":1360045549219,"patch":[[{"diffs":[[0,"RT, "],[-1,"'127.0.0.1'"],[1,"process.env.IP"],[0,");\nc"]],"start1":178,"start2":178,"length1":19,"length2":22}]],"length":238,"saved":false}
