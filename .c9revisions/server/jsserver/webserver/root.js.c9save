@@ -1,0 +1,2 @@
+{"ts":1359973567196,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1359974171030,"patch":[[{"diffs":[[1,"/**\n * application entry point \n */\n var rootDirectory = require('path').dirname(module.filename);\n \n require('httpserver').runServer(rootDirectory);\n"]],"start1":0,"start2":0,"length1":0,"length2":150}]],"length":150,"saved":false}
