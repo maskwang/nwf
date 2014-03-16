@@ -26,7 +26,7 @@
         "mysql": "2.1.1",
         "redis": "0.10.1",
         "ftp": "0.3.6",
-        "httpserver.maskwang": "0.0.0",
+        "httpserver.maskwang": "0.0.1",
         "httpserver.dispatcher": "0.0.0",
         "routeengine": "0.0.0",
         "servicehandler": "0.0.0",
