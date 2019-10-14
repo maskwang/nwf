@@ -23,7 +23,7 @@
     "dependencies": {
         "cluster": "0.7.7",
         "formidable": "1.0.14",
-        "mysql": "2.1.1",
+        "mysql": "2.17.1",
         "redis": "0.10.1",
         "ftp": "0.3.6",
         "httpserver.maskwang": "0.0.1",
